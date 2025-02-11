@@ -1,0 +1,11 @@
+scipy
+lap
+pygame
+cython
+cython_bbox
+pillow
+opencv-python
+onnxruntime
+requests
+cx_freeze
+pytz
